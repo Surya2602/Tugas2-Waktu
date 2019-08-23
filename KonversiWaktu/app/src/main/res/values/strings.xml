@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Konversi Waktu</string>
+    <string name="jam_m">Jam - Menit</string>
+    <string name="jam_d">Jam - Detik</string>
+    <string name="input_jam">Input Jam</string>
+    <string name="hitung">Hitung</string>
+</resources>
